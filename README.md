@@ -116,23 +116,17 @@
 &nbsp;
 
 <!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 📈
-  </strong>
-</H2>
-    <p align="center">
-      <div align="center">
-    </p>
-    
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <a href="https://github.com/hema8Codes?tab=repositories">
-  <img align="center" 
-       src="https://camo.githubusercontent.com/8b5091caa1ff05e4715dc7b2dc899cadca03bfc6b3b411c20cc07b2f5116ac75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d626c75656265727279" 
-       alt='Lunox's favorite languages" />
+<p><img align="right"  width="460"  height="190" src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" /></p>
 </a>
-  
+
 <a href="https://github.com/hema8Codes">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
+<p><img align="left"  width="460"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" />
+  </p>
+ </a>
+
 
 
 
