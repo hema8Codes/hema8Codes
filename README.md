@@ -114,14 +114,9 @@
 
 <!-- GitHub Stats -->
 
-<a href="https://github.com/hema8Codes?tab=repositories">
-<p><img align="right"  width="410"  height="190" src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" /></p>
-</a>
-
-<a href="https://github.com/hema8Codes">
-<p><img align="center"  width="410"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" />
-  </p>
- </a>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" /></p>
+<br>
+<p><img align="center"  width="410"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" /></p>
 
 
 
