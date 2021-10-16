@@ -6,7 +6,27 @@
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
+<h3 align="center">I would like to change the World but they won't give me the source code</h3>
+
+
+
+
+<!-- Background -->
+
+<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" 
+       alt="ezgif com-gif-maker" 
+       src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" />
+
+
+<h4 align="center">Hello 👋, I am Hemakshi Pandey</h4>
+
+<img align="right" alt="Coding" width="250"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<br>
+<h4 align ="justify">I am a passionate developer from India. I have a strong penchant for learning and exploring new technologies. My interest includes software development, web development and data structures and algorithms and I love to participate in various technical events.</h4>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemakshi1234&label=Profile%20views&color=0e75b6&style=flat" alt="hemakshi1234" /> </p>
   
   <!-- Social Network -->
 <h1 align="center">
@@ -49,17 +69,12 @@
 
 
 
-<!-- Background -->
-
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
-
 &nbsp;
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
+
+  <code><img height="40" src="https://user-images.githubusercontent.com/89300996/137589051-0dab06d0-705b-43df-8ba7-970c5405156c.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
@@ -108,13 +123,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/Lunox-code?tab=repositories">
+<a href="https://github.com/hema8Codes?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://camo.githubusercontent.com/8b5091caa1ff05e4715dc7b2dc899cadca03bfc6b3b411c20cc07b2f5116ac75/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d626c75656265727279" 
        alt='Lunox's favorite languages" />
 </a>
   
-<a href="https://github.com/Lunox-code">
+<a href="https://github.com/hema8Codes">
   <img align="center"
        src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
