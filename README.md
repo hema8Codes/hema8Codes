@@ -119,11 +119,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <a href="https://github.com/hema8Codes?tab=repositories">
-<p><img align="right"  width="460"  height="190" src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" /></p>
+<p><img align="right"  width="450"  height="190" src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" /></p>
 </a>
 
 <a href="https://github.com/hema8Codes">
-<p><img align="left"  width="460"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" />
+<p><img align="left"  width="450"  height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" />
   </p>
  </a>
 
