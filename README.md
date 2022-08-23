@@ -24,7 +24,9 @@
 
 <img align="right" alt="Coding" width="250"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <br>
-<h4 align ="justify">I am a passionate developer from India. I have a strong penchant for learning and exploring new technologies. My interest includes software development, web development and data structures and algorithms and I love to participate in various technical events.</h4>
+<h4 align ="justify">
+I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and discipline person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events
+</h4>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemakshi1234&label=Profile%20views&color=0e75b6&style=flat" alt="hemakshi1234" /> </p>
   
