@@ -22,12 +22,15 @@
 
 <h4 align="center">Hello 👋, I am Hemakshi Pandey</h4>
 
-<img align="right" alt="Coding" width="240"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+<img align="right" alt="Coding" width="240"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 <br>
 <br>
 
-<h4 align ="justify">
-I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and &nbsp;&nbsp; profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and &nbsp;&nbsp;&nbsp;&nbsp; discipline person. My interest includes software development, web development, and data &nbsp;&nbsp;&nbsp;&nbsp; structures and algorithms and I love participating in various technical events.
+<h4 align ="left">
+I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and discipline person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events.
 </h4>
 <br>
 <br>
