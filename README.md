@@ -70,6 +70,14 @@ I am a passionate developer from Delhi, India. I am an avid explorer of new tech
        height="35" 
        src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
   </a>
+ &nbsp; 
+<a href="https://www.youtube.com/@AlgoStarkIrona/featured">
+  <img align="center" 
+       alt="YouTube" 
+       width="37" 
+       height="37" 
+       src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" />
+  </a>
 </h1>
 
 
