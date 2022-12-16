@@ -24,7 +24,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" 
-       alt="Coding" width="900"  height="400" 
+       alt="Coding" width="900"  height="360" 
        src="https://providers-production.s3.amazonaws.com/articles/images/000/000/044/full/Providers_online_STI_resources.png?1468358229" />
 <div>
 <img align="right" alt="Coding" width="240"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
