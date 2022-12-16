@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">Software Developer 
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
@@ -20,17 +20,18 @@
        src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" />
 
 
-<h4 align="center">Hello 👋, I am Hemakshi Pandey</h4>
+<h3 align="center">Hello 👋, I am Hemakshi Pandey</h4>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" 
+       alt="Coding" width="900"  height="400" 
+       src="https://providers-production.s3.amazonaws.com/articles/images/000/000/044/full/Providers_online_STI_resources.png?1468358229" />
 <div>
 <img align="right" alt="Coding" width="240"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
-<br>
-<br>
 
 <h4 align ="left">
-I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and discipline person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events.
+I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and discipline person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems and need an opportunities to utilise technical skills in a diverse strategy.There is a profound power for advancing knowledge in the real world environment and it originates in implementation in real world. I am perceptive, a quick learner and adept in whatever I do. I always thrive on my hard work.
 </h4>
 <br>
 <br>
