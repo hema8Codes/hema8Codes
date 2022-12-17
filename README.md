@@ -87,8 +87,8 @@ I am a passionate developer from Delhi, India. I am an avid explorer of new tech
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-
-  <code><img height="40" src="https://user-images.githubusercontent.com/89300996/137589051-0dab06d0-705b-43df-8ba7-970c5405156c.png"></code>
+  
+  
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
