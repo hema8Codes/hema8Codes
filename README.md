@@ -31,7 +31,7 @@
 </div>
 
 <h4 align ="left">
-I am a passionate developer from Delhi, India. I am an avid explorer of new technologies and profoundly enjoy and work hard to develop projects. I am a self-motivated, determined, and discipline person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems and need opportunities to utilise technical skills in a diverse strategy. There is a profound power for advancing knowledge in the real world environment and it originates in implementation in real world. I am perceptive , a quick learner and adept in whatever I do. I always thrive on my hard work.
+I am a Software developer from Delhi, India. An avid explorer of new technologies, I profoundly enjoy and work hard to develop projects. I am a self-motivated person. My interest includes software development, web development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems and currently exploring the GPS and geospatial technology.
 </h4>
 <br>
 <br>
