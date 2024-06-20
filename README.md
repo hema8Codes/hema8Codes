@@ -31,7 +31,7 @@
 </div>
 
 <h4 align ="left">
-I am a Software Developer from Delhi, India. An avid explorer of new technologies, I profoundly enjoy and work hard to develop projects. I am a self-motivated person. My interest includes software development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems and currently exploring the GPS and geospatial technology.
+I am a Software Developer from Delhi, India. An avid explorer of new technologies, I profoundly enjoy and work hard to develop projects. I am a self-motivated person. My interest includes software development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems.
 </h4>
 <br>
 <br>
