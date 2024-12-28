@@ -31,7 +31,29 @@
 </div>
 
 <h4 align ="left">
-I am a Software Developer from Delhi, India. An avid explorer of new technologies, I profoundly enjoy and work hard to develop projects. I am a self-motivated person. My interest includes software development, and data structures and algorithms and I love participating in various technical events. I am enthusiastic in solving problems.
+
+# Hi there! 👋 I'm Hemakshi Pandey
+
+I am a passionate and dedicated **Software Engineer** currently pursuing my **Master of Science in Software Engineering** at **Arizona State University** with a perfect GPA of 4.0. I thrive on building innovative solutions and collaborating on projects that push the boundaries of technology.
+
+## 🚀 What I Do
+- 💻 **Tech Stack**: Proficient in **Java**, **Python**, **C++**, and **C#**. Skilled in modern frameworks like **Spring Framework**, **React**, and **Django**.
+- 🌐 **Backend and Cloud Expertise**: Strong experience with **Microservices Architecture**, **Docker**, **Kubernetes**, and **AWS**.
+- 🧠 **Machine Learning**: Hands-on experience with **TensorFlow** and **PyTorch** for data-driven problem solving.
+
+## 🎓 Education
+- **Master of Science** in Software Engineering (Expected May 2026), Arizona State University
+- **Bachelor of Technology** in Computer Science and Engineering, Guru Gobind Singh Indraprastha University
+
+## 🏆 Achievements
+- **Smart India Hackathon Grand Finalist**: Recognized among the top 7 finalist teams for delivering innovative tech solutions.
+
+## 📫 Let's Connect!
+- **LinkedIn**: [Hemakshi Pandey](https://www.linkedin.com/in/hemakshi-pandey-286470167/)
+- **GitHub**: [hema8codes](https://github.com/hema8codes)
+
+Feel free to explore my repositories or reach out for collaborations. Let's build something amazing together! 🚀
+
 </h4>
 <br>
 <br>
@@ -121,7 +143,7 @@ I am a Software Developer from Delhi, India. An avid explorer of new technologie
 
 <!-- GitHub Stats -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hema8codes&show_icons=true&locale=en&theme=algolia" alt="hema8codes" style="max-width: 20%;" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" style="max-width: 20;" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hema8codes&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=great-gatsby" alt="hema8codes" style="max-width: 20;" /></p>
 
 
 
