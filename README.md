@@ -61,13 +61,6 @@ Feel free to explore my repositories or reach out for collaborations. Let's buil
   
   <!-- Social Network -->
 <h1 align="center">
-<a href="https://www.instagram.com/its_hemakshi08/">
-  <img align="center" 
-       alt="Hemakshi's Instagram" 
-       width="35" 
-       height="35" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
 &nbsp;  
 <a href="https://www.linkedin.com/in/hemakshi-pandey-286470167/">
   <img align="center" 
@@ -85,21 +78,6 @@ Feel free to explore my repositories or reach out for collaborations. Let's buil
        src="https://user-images.githubusercontent.com/89300996/137591311-efd1c3fe-3ba0-4081-86f1-311b219964e7.png" />
   </a>
 &nbsp;  
-<a href="developer8hema@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
-       width="35" 
-       height="35" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
- &nbsp; 
-<a href="https://www.youtube.com/@AlgoStarkIrona/featured">
-  <img align="center" 
-       alt="YouTube" 
-       width="37" 
-       height="37" 
-       src="https://www.freeiconspng.com/uploads/hd-youtube-logo-png-transparent-background-20.png" />
-  </a>
 </h1>
 
 
