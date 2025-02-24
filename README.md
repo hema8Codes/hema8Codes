@@ -37,9 +37,7 @@
 I am a passionate and dedicated **Software Engineer** currently pursuing my **Master of Science in Software Engineering** at **Arizona State University** with a perfect GPA of 4.0. I thrive on building innovative solutions and collaborating on projects that push the boundaries of technology.
 
 ## 🚀 What I Do
-- 💻 **Tech Stack**: Proficient in **Java**, **Python**, **C++**, and **C#**. Skilled in modern frameworks like **Spring Framework**, **React**, and **Django**.
-- 🌐 **Backend and Cloud Expertise**: Strong experience with **Microservices Architecture**, **Docker**, **Kubernetes**, and **AWS**.
-- 🧠 **Machine Learning**: Hands-on experience with **TensorFlow** and **PyTorch** for data-driven problem solving.
+- 💻 **Tech Stack**: Proficient in **C#**, **Java**, **Python** and **C++**,
 
 ## 🎓 Education
 - **Master of Science** in Software Engineering (Expected May 2026), Arizona State University
@@ -83,41 +81,7 @@ Feel free to explore my repositories or reach out for collaborations. Let's buil
 
 
 
-&nbsp;
 
-<!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
-  <code><img height="40" src="https://www.freeiconspng.com/uploads/sql-file-icon-0.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-
-
-  </p>
-  
-&nbsp;  
-
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  <code><img height="40" src="https://www.technology4u.in/wp-content/uploads/2021/07/epv55hgtsfi8csprpj9u.jpg"></code>
-  <code><img height="40" src="https://miro.medium.com/max/4800/1*KpDOKMFAgDWaGTQHL0r70g.webp"></code>
-  <code><img height="40" src="https://cdn.vox-cdn.com/thumbor/v03ux728QHOvKUaDEb5S-RvfjdI=/0x0:1200x630/2000x1333/filters:focal(600x315:601x316)/cdn.vox-cdn.com/uploads/chorus_asset/file/21812330/Unity_1200X630.png"></code>  
-  <code><img height="40" src="https://1.bp.blogspot.com/-KulVbdT8hTg/XV-p2sDL5yI/AAAAAAAAANc/5i46uvBPl0EaQe3vGSa7jm1TT6UnvoRTACEwYBhgL/s1600/iOS-app-development-company-USA.jpg"></code> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-  <code><img height="40" src="http://www.pureecosoft.com/public/img/training/download.webp"></code>
-  
-  </p>
-&nbsp;
 
 <!-- GitHub Stats -->
 
