@@ -36,9 +36,6 @@
 
 I am a passionate and dedicated **Software Engineer** currently pursuing my **Master of Science in Software Engineering** at **Arizona State University** with a perfect GPA of 4.0. I thrive on building innovative solutions and collaborating on projects that push the boundaries of technology.
 
-## 🚀 What I Do
-- 💻 **Tech Stack**: Proficient in **C#**, **Java**, **Python** and **C++**,
-
 ## 🎓 Education
 - **Master of Science** in Software Engineering (Expected May 2026), Arizona State University
 - **Bachelor of Technology** in Computer Science and Engineering, Guru Gobind Singh Indraprastha University
