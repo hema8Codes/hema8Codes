@@ -46,7 +46,7 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 - Won **4 hackathons** across innovation, data, AI, and software engineering challenges.
 - Built impactful projects under tight deadlines while collaborating with diverse teams.
 
-### 🚀 Hackathon Highlights
+### 🚀 Hackathon Highlights 2026
 
 📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA  
 💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner  
