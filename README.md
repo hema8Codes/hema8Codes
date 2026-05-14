@@ -41,7 +41,21 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 - **Bachelor of Technology** in Computer Science and Engineering, Guru Gobind Singh Indraprastha University
 
 ## 🏆 Achievements
-- **Smart India Hackathon Grand Finalist**: Recognized among the top 7 finalist teams for delivering innovative tech solutions.
+
+- Participated in **8 hackathons** in 2026.
+- Won **4 hackathons** across innovation, data, AI, and software engineering challenges.
+- Built impactful projects under tight deadlines while collaborating with diverse teams.
+
+### 🚀 Hackathon Highlights
+
+📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA  
+💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner  
+🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ  
+🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ  
+🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner  
+🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner  
+📊 **DataHacks** — UC San Diego, La Jolla, CA — 🏆 Winner  
+🏝️ **LA Hacks 2026** — UCLA, Los Angeles, CA
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Hemakshi Pandey](https://www.linkedin.com/in/hemakshi-pandey-286470167/)
