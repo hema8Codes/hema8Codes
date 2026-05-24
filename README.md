@@ -17,8 +17,6 @@
        src="https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif" />
 
 
-<h3 align="center">Hello 👋, I am Hemakshi Pandey</h4>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" 
        alt="Coding" width="900"  height="360" 
