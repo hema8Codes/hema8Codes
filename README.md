@@ -1,8 +1,5 @@
 <!-- Title -->
-<h1 align="center">Hello
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h2></h1>
+<h1 align="center"> Turning dreams into intelligent systems </h1>
 
 
 <!-- Quote -->
