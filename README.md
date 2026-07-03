@@ -43,14 +43,15 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 
 ### 🚀 Hackathon Highlights 2026
 
-📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA  
-💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner  
-🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ  
-🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ  
-🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner  
-🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner  
-📊 **DataHacks** — UC San Diego, La Jolla, CA — 🏆 Winner  
-🏝️ **LA Hacks 2026** — UCLA, Los Angeles, CA
+📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA [Feb. 2026]
+💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner [Mar. 2026] 
+🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ [Mar. 2026]  
+🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ [Mar. 2026]  
+🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner [Apr. 2026]  
+🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner [Apr. 2026]  
+📊 **DataHacks** — University of California, San Diego, La Jolla, CA — 🏆 Winner [Apr. 2026] 
+🏝️ **LA Hacks 2026** — University of California, Los Angeles, CA [Apr. 2026]
+🧸 **AI Hackathon 2026** — University of California, Berkeley, CA — 🏆 Winner [Jun. 2026] 
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Hemakshi Pandey](https://www.linkedin.com/in/hemakshi-pandey-286470167/)
