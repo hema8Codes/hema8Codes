@@ -18,9 +18,6 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" 
-       alt="Coding" width="900"  height="360" 
-       src="https://providers-production.s3.amazonaws.com/articles/images/000/000/044/full/Providers_online_STI_resources.png?1468358229" />
 <div>
 <img align="right" alt="Coding" width="240"  height="170" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
@@ -43,15 +40,15 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 
 ### 🚀 Hackathon Highlights 2026
 
-📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA [Feb. 2026]
-💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner [Mar. 2026] 
-🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ [Mar. 2026]  
-🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ [Mar. 2026]  
-🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner [Apr. 2026]  
-🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner [Apr. 2026]  
-📊 **DataHacks** — University of California, San Diego, La Jolla, CA — 🏆 Winner [Apr. 2026] 
-🏝️ **LA Hacks 2026** — University of California, Los Angeles, CA [Apr. 2026]
-🧸 **AI Hackathon 2026** — University of California, Berkeley, CA — 🏆 Winner [Jun. 2026] 
+📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA
+💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner 
+🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ
+🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ
+🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner 
+🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner
+📊 **DataHacks** — University of California, San Diego, La Jolla, CA — 🏆 Winner
+🏝️ **LA Hacks 2026** — University of California, Los Angeles, CA
+🧸 **AI Hackathon 2026** — University of California, Berkeley, CA — 🏆 Winner
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Hemakshi Pandey](https://www.linkedin.com/in/hemakshi-pandey-286470167/)
