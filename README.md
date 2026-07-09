@@ -34,8 +34,8 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 
 ## 🏆 Achievements
 
-- Participated in **8 hackathons** in 2026.
-- Won **4 hackathons** across innovation, data, AI, and software engineering challenges.
+- Participated in **9 hackathons** in 2026.
+- Won **5 hackathons** across innovation, data, AI, and software engineering challenges.
 - Built impactful projects under tight deadlines while collaborating with diverse teams.
 
 ### 🚀 Hackathon Highlights 2026
