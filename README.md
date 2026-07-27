@@ -40,14 +40,10 @@ I am a passionate and dedicated **Software Engineer** currently pursuing my **Ma
 
 ### 🚀 Hackathon Highlights 2026
 
-* 📊 **Hacklytics 2026** — Georgia Institute of Technology, Atlanta, GA
 * 💻 **DevHacks** — Mountain America Stadium, Tempe, AZ — 🏆 Winner
-* 🪐 **SpaceHACK for Sustainability 2026** — ASU Tempe Campus, AZ
-* 🦋 **WiCS x Opportunity Hack Spring 2026** — Nonprofit Innovation Challenge, ASU Tempe Campus, AZ
 * 🚀 **Innovation Hacks** — ASU Tempe, AZ — 🏆 Winner
 * 🌵 **HackAZona** — Phoenix, AZ — 🏆 Winner
 * 📊 **DataHacks** — University of California, San Diego, La Jolla, CA — 🏆 Winner
-* 🏝️ **LA Hacks 2026** — University of California, Los Angeles, CA
 * 🧸 **AI Hackathon 2026** — University of California, Berkeley, CA — 🏆 Winner
 
 
